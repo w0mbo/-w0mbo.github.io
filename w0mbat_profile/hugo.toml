@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'w0mbat be validating'
+
+[params]
+  Name = "w0mbat_"
+  HeaderUsername = "w0mbat"
+  HeaderHostname = "vinuchain"
+  About = "learning to build in web3 with VinuChain"
+  ProfilePicture = "https://pbs.twimg.com/profile_images/1783371182294867968/1NLQLzLr_400x400.jpg"
+  GithubID = "https://github.com/w0mbo"
+  TwitterID = "your_twitterhttps://x.com/w0mbat_in_w3b"
+  TelegramID = "https://t.me/w0mbat_w3b"
